@@ -28,3 +28,11 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+
+/_next
+/_next/
+404.html
+favicon.ico
+index.html
+vercel.svg
